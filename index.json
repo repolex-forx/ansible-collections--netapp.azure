@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "netapp.azure",
+  "versions": [
+    {
+      "commit": "825651a2e8b0830607ee11321f9934d3ce6b996b",
+      "tag": "21.10.1",
+      "parsed_at": "2026-11-07T17:43:54.755430+00:00"
+    }
+  ]
+}
