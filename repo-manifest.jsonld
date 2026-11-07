@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/netapp.azure/commit/825651a2e8b0830607ee11321f9934d3ce6b996b",
       "git:hexsha": "825651a2e8b0830607ee11321f9934d3ce6b996b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "21.10.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "21.10.1",
+      "repolex:parsedAt": "2026-11-07T17:43:54.754885+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/netapp.azure/commit/0134d186a8e7ebed595eb573e4ef7d6f0549346e",
